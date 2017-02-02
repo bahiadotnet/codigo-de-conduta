@@ -79,13 +79,13 @@ Em situação alguma repita a mesma pergunta diversas vezes. Além de gerar spam
 
 ### Seja gentil
 
-Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com larga experiência em desenvolvimento, bem como iniciantes que acabaram de conhecer a plataforma. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. E é isso que faz o Bahia .NET um lugar excelente para aprender e se desenvolver. 
+Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com larga experiência em desenvolvimento, bem como iniciantes que acabaram de conhecer a plataforma. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. E é isso que faz o Bahia .NET Developers Group um lugar excelente para aprender e se desenvolver.
 
 Preste atenção em seus posts para manter a comunicação agradável e interessante para todos.
 
 ### Responsabilidade individual
 
-Todas as mensagens enviadas no Slack, através de meios públicos ou privados, são de inteira responsabilidade do autor. O Bahia .NET potencializa a comunicação entre desenvolvedores do Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
+Todas as mensagens enviadas no Slack, através de meios públicos ou privados, são de inteira responsabilidade do autor. O Bahia .NET Developers Group potencializa a comunicação entre desenvolvedores do Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
 O Bahia .NET Developers Group não se responsabiliza por informações sensíveis compartilhadas nos canais ou mensagens privadas. Ao enviar trechos de código, tome cuidado com para não enviar credenciais (endpoints, chaves de API e afins). Caso alguma dessas informações for compartilhada, avise imediatamente qualquer um dos administradores para que a mensagem seja apagada.
 
 ### Arquivos e links
